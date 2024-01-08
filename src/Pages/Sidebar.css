@@ -1,0 +1,21 @@
+.dp_navbar_items{
+    list-style-type: none;
+    padding: 0px;
+}
+
+.dp_navbar_items li{
+    padding: 5px 10px;
+    border: 1px solid black;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+
+.dp_navbar_items li a{
+    color: black;
+    text-decoration: none;
+}
+
+.dp_navbar_items li a:hover{
+    text-decoration: underline;
+    color: blue;
+}
